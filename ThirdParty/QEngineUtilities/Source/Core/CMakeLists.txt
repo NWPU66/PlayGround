@@ -1,0 +1,19 @@
+qengine_add_target(QEngineCore
+    ENABLE_MOC
+    PUBLIC_DEPENDENCY   
+        Qt::Gui
+        Qt::GuiPrivate
+        Qt::Widgets
+        Qt::WidgetsPrivate
+        Qt::ShaderToolsPrivate
+        Qt::Multimedia
+        Qt::MultimediaPrivate
+        ImGui
+        ImGuizmo
+        Tracy::TracyClient
+    PRIVATE_DEPENDENCY  
+        assimp::assimp
+        fftw3
+    PUBLIC_INCLUDE
+        ../../3rdParty/fftw3/api
+)

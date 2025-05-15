@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/reset.png</file>
+        <file>Resources/undo.png</file>
+        <file>Resources/search.png</file>
+        <file>Resources/delete.png</file>
+        <file>Resources/down.png</file>
+        <file>Resources/up.png</file>
+        <file>Resources/plus.png</file>
+        <file>Resources/expand.png</file>
+        <file>Resources/unexpand.png</file>
+        <file>Resources/DroidSans.ttf</file>
+        <file>Resources/DroidSans-Bold.ttf</file>
+        <file>Resources/rotate.png</file>
+        <file>Resources/scale.png</file>
+        <file>Resources/translate.png</file>
+        <file>Resources/camera.png</file>
+        <file>Resources/stats.png</file>
+        <file>Resources/polygon.png</file>
+        <file>Resources/mouse-arrow.png</file>
+        <file>Resources/graph.png</file>
+        <file>Resources/pause.png</file>
+        <file>Resources/play.png</file>
+        <file>Resources/stop.png</file>
+        <file>Resources/arrow-left-l.png</file>
+        <file>Resources/arrow-right-l.png</file>
+        <file>Resources/case.png</file>
+        <file>Resources/ic_exp.png</file>
+        <file>Resources/image-20220626170121678.png</file>
+        <file>Resources/image-20220626170508988.png</file>
+        <file>Resources/replace.png</file>
+        <file>Resources/text-format.png</file>
+        <file>Resources/close.png</file>
+        <file>Resources/tips.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,3 @@
+[submodule "ThirdParty/QEngineUtilities"]
+	path = ThirdParty/QEngineUtilities
+	url = git@github.com:Italink/QEngineUtilities.git
